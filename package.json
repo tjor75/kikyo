@@ -1,0 +1,33 @@
+{
+  "name": "kikyo",
+  "version": "1.0.0",
+  "description": "Express.js middleware for making Icecast servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjor75/kikyo.git"
+  },
+  "keywords": [
+    "radio",
+    "express",
+    "express-middleware",
+    "expressjs",
+    "icecast",
+    "icecast2"
+  ],
+  "author": "tjor75",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjor75/kikyo/issues"
+  },
+  "homepage": "https://github.com/tjor75/kikyo#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
